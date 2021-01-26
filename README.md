@@ -1,5 +1,5 @@
 # QR-Code-generator
-If you want to create a QR-code, you can youse my QR-Code generator. It's easy to use.
+If you want to create a QR-code, you can youse my QR-Code generator. It's easy to use because of the graphical user interface .
 
 You can decide if you want to wownload the App Folder oder the python script.
 
