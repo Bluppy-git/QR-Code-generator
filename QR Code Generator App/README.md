@@ -1,6 +1,6 @@
 # Usage of the QR-Code generator interface
 
-The .exe has to be in the App-folder otherwise the programm wouldn't work. But by default the file will be in the right folder.
+The .exe has to be in the App-folder otherwise the programm wouldn't work. But normally the file will be in the right folder.
 
 This QR-Codegenerator is easy to use because of the graphical user interface.
 When you launch the .exe file you will see 4 white fields.
