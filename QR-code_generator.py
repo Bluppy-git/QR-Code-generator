@@ -28,25 +28,25 @@ bo_in.grid(row=5, columnspan=5)
 save.grid(row=7, columnspan=5)
 
 #description on the top of the text field
-QR_Code_text = tkinter.Label(top, text = " Enter Text for the QR Code ")
+QR_Code_text = tkinter.Label(top, text = " Enter text for the QR code ")
 QR_Code_text.grid(row=0,column=0)
 
-QR_Code_size = tkinter.Label(top,text=" Enter the size of QR Code ")
+QR_Code_size = tkinter.Label(top,text=" Enter the size of QR code ")
 QR_Code_size.grid(row=2,column=0)
 
-QR_Code_border = tkinter.Label(top,text=" Enter the border of QR Code ")
+QR_Code_border = tkinter.Label(top,text=" Enter the border of QR code ")
 QR_Code_border.grid(row=4,column=0)
 
-QR_Code_name = tkinter.Label(top,text=" Enter the name of QR Code ")
+QR_Code_name = tkinter.Label(top,text=" Enter the name of QR code ")
 QR_Code_name.grid(row=6,column=0)
 
 QR_Code_name = tkinter.Label(top,text=" ")
 QR_Code_name.grid(row=9,column=0)
 
-generate_QR_Code = tkinter.Button(top,text=" generate QR Code ")
+generate_QR_Code = tkinter.Button(top,text=" generate QR code ")
 generate_QR_Code.grid(row=10,column=0)
 
-QR_Code_name = tkinter.Label(top,text=" You find the generated QR-Code in the same folder as this QR-Code generator ")
+QR_Code_name = tkinter.Label(top,text=" You find the generated QR-code in the same folder as this QR-code generator ")
 QR_Code_name.grid(row=11,column=0)
 
 
